@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>C:/Users/Tomahawk/Desktop/backgroundPage.png</file>
+    </qresource>
+</RCC>
